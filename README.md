@@ -1,2 +1,2 @@
 # Game
-written in c++
+Light version of pacman written in c++
